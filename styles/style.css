@@ -1,0 +1,66 @@
+
+
+/* Body Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+h1 
+{
+    color:#0D0925;
+}
+
+
+/* Common Styles */
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+.custom-color {
+    color:#E76F51;
+}
+/* Header part */
+
+.custom-header-color
+{
+    background-color: #264653;
+}
+
+.custom-header-btn 
+{
+    background-color:#E76F51;
+    color:white;
+    border-radius: 5px;
+    padding: 10px 30px;
+}
+
+
+ /* Feature Bikes */
+
+
+ .grey-image
+ {
+     filter:grayscale(100%);
+ }
+
+ /* Clients Review */
+
+ .custom-user-image
+{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+}
+
+
+/* Extra part 2 Slider */
+.bike-btn-buy-now
+{
+    color:white;
+    background-color:rgb(223, 24, 24);
+    padding:10px 30px;
+    border-radius:10px;
+}
+/* Extra part 3 Badge and input */
+.custom-color-p3
+{
+    background-color:rgb(250, 239, 224);
+}
