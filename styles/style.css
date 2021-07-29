@@ -3,10 +3,7 @@
 /* Body Font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
-h1 
-{
-    color:#0D0925;
-}
+
 
 
 /* Common Styles */
@@ -17,6 +14,11 @@ body
 .custom-color {
     color:#E76F51;
 }
+h1 
+{
+    color:#0D0925;
+}
+
 /* Header part */
 
 .custom-header-color
@@ -60,7 +62,7 @@ body
     border-radius:10px;
 }
 /* Extra part 3 Badge and input */
-.custom-color-p3
+.custom-color-store
 {
     background-color:rgb(250, 239, 224);
 }
